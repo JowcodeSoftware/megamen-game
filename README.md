@@ -1,6 +1,6 @@
 # megamen-game
 ---
-## Deploy:
+## Deploy: [megamen-game](https://jowcodesoftware.github.io/megamen-game/)
 ---
 ## 🗺️ Instruções para o jogo;
 ## 🎮 Utilize qualquer tecla para a função jump;
