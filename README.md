@@ -1,3 +1,5 @@
 # megamen-game
 ---
-<img src="mario.png">
+## Deploy:
+---
+<img src="./images/mario.gif">
